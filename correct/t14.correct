@@ -1,0 +1,97 @@
+Driver: 0 ready at location (0, 0)
+Driver: 1 ready at location (0, 0)
+Driver: 2 ready at location (0, 0)
+Driver: 3 ready at location (0, 0)
+Customer: 0 ready at location (1, 1)
+Customer: 0 matched with driver: 0
+Customer: 1 ready at location (2, 3)
+Customer: 1 matched with driver: 1
+Customer: 2 ready at location (10, 10)
+Customer: 2 matched with driver: 2
+Customer: 3 ready at location (0, 0)
+Customer: 3 matched with driver: 3
+Customer: 4 ready at location (5, 5)
+Customer: 0 payed driver: 0
+Customer: 1 payed driver: 1
+Customer: 2 payed driver: 2
+Customer: 3 payed driver: 3
+Driver: 0 ready at location (1, 1)
+Driver: 1 ready at location (2, 3)
+Driver: 2 ready at location (10, 10)
+Driver: 3 ready at location (0, 0)
+Customer: 4 matched with driver: 1
+Customer: 5 ready at location (1, 2)
+Customer: 5 matched with driver: 0
+Customer: 6 ready at location (2, 2)
+Customer: 6 matched with driver: 3
+Customer: 7 ready at location (3, 2)
+Customer: 7 matched with driver: 2
+Customer: 8 ready at location (50, 50)
+Customer: 4 payed driver: 1
+Customer: 5 payed driver: 0
+Customer: 6 payed driver: 3
+Customer: 7 payed driver: 2
+Driver: 0 ready at location (1, 2)
+Driver: 1 ready at location (5, 5)
+Driver: 2 ready at location (3, 2)
+Driver: 3 ready at location (2, 2)
+Customer: 8 matched with driver: 1
+Customer: 9 ready at location (0, 1)
+Customer: 9 matched with driver: 0
+Customer: 0 ready at location (1, 1)
+Customer: 0 matched with driver: 3
+Customer: 1 ready at location (3, 4)
+Customer: 1 matched with driver: 2
+Customer: 2 ready at location (11, 11)
+Customer: 8 payed driver: 1
+Customer: 9 payed driver: 0
+Driver: 0 ready at location (0, 1)
+Driver: 1 ready at location (50, 50)
+Customer: 0 payed driver: 3
+Customer: 1 payed driver: 2
+Customer: 2 matched with driver: 0
+Customer: 3 ready at location (20, 20)
+Customer: 3 matched with driver: 1
+Customer: 4 ready at location (5, 5)
+Driver: 2 ready at location (3, 4)
+Driver: 3 ready at location (1, 1)
+Customer: 2 payed driver: 0
+Customer: 3 payed driver: 1
+Customer: 4 matched with driver: 2
+Customer: 6 ready at location (3, 3)
+Customer: 6 matched with driver: 3
+Customer: 7 ready at location (6, 1)
+Driver: 0 ready at location (11, 11)
+Driver: 1 ready at location (20, 20)
+Customer: 4 payed driver: 2
+Customer: 6 payed driver: 3
+Customer: 7 matched with driver: 0
+Customer: 9 ready at location (0, 1)
+Customer: 9 matched with driver: 1
+Driver: 2 ready at location (5, 5)
+Driver: 3 ready at location (3, 3)
+Customer: 3 ready at location (0, 0)
+Customer: 3 matched with driver: 3
+Customer: 4 ready at location (5, 5)
+Customer: 4 matched with driver: 2
+Customer: 6 ready at location (4, 4)
+Customer: 7 payed driver: 0
+Customer: 9 payed driver: 1
+Driver: 0 ready at location (6, 1)
+Driver: 1 ready at location (0, 1)
+Customer: 3 payed driver: 3
+Customer: 4 payed driver: 2
+Customer: 6 matched with driver: 0
+Customer: 7 ready at location (3, 2)
+Customer: 7 matched with driver: 1
+Driver: 2 ready at location (5, 5)
+Driver: 3 ready at location (0, 0)
+Customer: 6 payed driver: 0
+Customer: 6 ready at location (5, 5)
+Customer: 6 matched with driver: 2
+Customer: 7 payed driver: 1
+Driver: 0 ready at location (4, 4)
+Driver: 1 ready at location (3, 2)
+Customer: 6 payed driver: 2
+Driver: 2 ready at location (5, 5)
+All CPUs suspended.  Exiting.

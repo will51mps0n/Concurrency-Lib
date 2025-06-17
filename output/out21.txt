@@ -1,0 +1,12 @@
+parent created t1
+parent got lock. Waiting on mutex
+thread 1is attempting to grab mutex 1. If lock not confirmed, thread is waiting. 
+mutex 1 has been locked by thread 1
+thread 1is yielding so other threads can take over 
+thread 1CALLING SIGNAL CV 1 
+thread 1Called signal on lock, now will wait 
+Parent has been woken up. Needs to happen after thread 1 announces signal
+thread 1is attempting to grab mutex 1. If lock not confirmed, thread is waiting. 
+Parent returned
+parent trying to get lock
+All CPUs suspended.  Exiting.

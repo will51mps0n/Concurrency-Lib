@@ -1,0 +1,43 @@
+IN BRAWL STARS FUNCTION
+Adam trying to acquire lock 1...
+Adam acquired lock! awesome
+Now that Adam has lock, he opens the door. He pets the cat 
+ /\_/\  
+( o.o ) 
+ > ^ <  
+
+Adam now returns the lock, complete count = 1
+IN BRAWL STARS FUNCTION
+Ethan trying to acquire lock 1...
+Ethan acquired lock! awesome
+Now that Ethan has lock, he opens the door. He pets the cat 
+ /\_/\  
+( o.o ) 
+ > ^ <  
+
+Ethan now returns the lock, complete count = 2
+IN BRAWL STARS FUNCTION
+Sergey trying to acquire lock 1...
+Sergey acquired lock! awesome
+Now that Sergey has lock, he opens the door. He pets the cat 
+ /\_/\  
+( o.o ) 
+ > ^ <  
+
+Sergey now returns the lock, complete count = 3
+Sergey trying to acquire lock 2...
+Sergey acquired lock 2! - theyre now going to yield, but not give it up
+Adam trying to acquire lock 2...
+Ethan trying to acquire lock 2...
+Sergey unlocks the door, but the the room is empty, so they give up the lock
+Sergey they now call yield, and dont move on till the last person is done 2
+Adam acquired lock 2! - theyre now going to yield, but not give it up
+SergeyDone with their turn, done with thread
+Adam unlocks the door, but the the room is empty, so they give up the lock
+Adam they now call yield, and dont move on till the last person is done 1
+Ethan acquired lock 2! - theyre now going to yield, but not give it up
+AdamDone with their turn, done with thread
+Ethan unlocks the door, but the the room is empty, so they give up the lock
+Ethan they now call yield, and dont move on till the last person is done 0
+EthanDone with their turn, done with thread
+All CPUs suspended.  Exiting.

@@ -1,0 +1,48 @@
+Parent thread is joining children
+A has lock
+B starts
+C starts
+B starts
+C starts
+A done
+C is back
+C is back
+B has lock
+Parent thread is yielding to children
+B has lock
+Parent thread is done joining children
+C has lock
+C has lock
+child1: 0
+child1: 100
+child1: 200
+child1: 300
+child1: 400
+child1: 500
+child1: 600
+child1: 700
+child1: 800
+child1: 900
+child2: 0
+child2: 100
+child2: 200
+child2: 300
+child2: 400
+child2: 500
+child2: 600
+child2: 700
+child2: 800
+child2: 900
+Thread 0 locked m1, waiting for m2
+Thread 1 locked m2, waiting for m1
+child2: 0
+child2: 100
+child2: 200
+child2: 300
+child2: 400
+child2: 500
+child2: 600
+child2: 700
+child2: 800
+child2: 900
+All CPUs suspended.  Exiting.

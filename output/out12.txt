@@ -1,0 +1,7 @@
+Yielding thread 1 so thread 2 can take over execution
+thread 2 is going to wait on a cv until t1 has attempted to join 
+Thread 1 now going to attempt to join t2. It will grab the lock, then signal, then release the lock. t2 should wait on mutex because hasnt incrememnted wait on parent count yet
+Thread thread 2 Has been awoken by thread 1
+thread 2 is done 
+Thread 1 has now moved on after join, so 2 should be done. Test done
+All CPUs suspended.  Exiting.

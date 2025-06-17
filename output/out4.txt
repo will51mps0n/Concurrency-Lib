@@ -1,0 +1,15 @@
+loop called by parent thread
+parent thread:	0	0
+loop called by child thread
+child thread:	0	0
+parent thread:	1	1
+child thread:	1	2
+parent thread:	2	3
+child thread:	2	4
+parent thread:	3	5
+child thread:	3	6
+parent thread:	4	7
+child thread:	4	8
+parent thread:	5	9
+child thread:	5	10
+All CPUs suspended.  Exiting.

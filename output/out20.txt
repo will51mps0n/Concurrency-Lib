@@ -1,0 +1,15 @@
+Main
+Parent: Starting execution
+Creating normal thread
+NormalThread: Starting execution - waking up c waiting threads
+NormalThread: Normal thread finishing
+Locking mutex
+Creating waiting thread, with m locked. waitng thread will try to call wait on m
+WaitingThread: Starting execution
+WaitingThread: About to wait on CV with an unlocked mutex
+try was caught
+WaitingThread: After wait attempt with unlocked mutex
+WaitingThread: Waiting thread finishing
+Waiting for threads to complete
+Test completed
+All CPUs suspended.  Exiting.

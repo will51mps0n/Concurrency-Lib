@@ -1,0 +1,25 @@
+Thread 1 started.
+Thread 1 iteration 0 count=0
+Thread 2 started.
+Thread 2 iteration 0 count=1
+Thread 3 waiting on CV.
+Thread 4  waiting on CV.
+Thread 1 iteration 1 count=2
+Thread 2 iteration 1 count=3
+Thread 5  Checking the signaling 
+Thread 1 iteration 2 count=4
+Thread 2 iteration 2 count=5
+Thread 3 Doing after the cv signal, count is currently =6
+Epic ThreadTrying broadcast 
+Trying to join on self
+Thread 1 iteration 3 count=6
+Thread 2 iteration 3 count=7
+Thread 4  Doing after the cv signal, count is currently =8
+Thread 1 iteration 4 count=8
+Thread 2 iteration 4 count=9
+Self Thread2Trying broadcast 
+Thread 1 Finished first spec exec.
+Thread 2 Finished first spec exec.
+Joined on self
+
+All CPUs suspended.  Exiting.

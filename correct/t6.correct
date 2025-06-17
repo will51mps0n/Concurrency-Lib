@@ -1,0 +1,41 @@
+Banker 0 is ready to complete a request 
+Banker 1 is ready to complete a request 
+customer 0 is sending a new request 
+customer 0 has completed request, their completed request count is:  0
+customer 0 is sending a new request 
+customer 0 has completed request, their completed request count is:  1
+customer 1 is sending a new request 
+customer 1 has completed request, their completed request count is:  0
+customer 1 is sending a new request 
+customer 1 has completed request, their completed request count is:  1
+customer 2 is sending a new request 
+customer 2 has completed request, their completed request count is:  0
+customer 3 is sending a new request 
+customer 3 has completed request, their completed request count is:  0
+customer 3 is sending a new request 
+customer 3 has completed request, their completed request count is:  1
+customer 3 is sending a new request 
+customer 3 has completed request, their completed request count is:  2
+customer 4 is sending a new request 
+customer 4 has completed request, their completed request count is:  0
+customer 4 is sending a new request 
+customer 4 has completed request, their completed request count is:  1
+Banker 0 has accepted a request and is now not available 
+Banker 0 transferred $50 from Customer 0 to the reciever:  1
+Banker 0 is ready to complete a request 
+Banker 0 has accepted a request and is now not available 
+Banker 0 transferred $150 from Customer 1 to the reciever:  2
+Banker 0 is ready to complete a request 
+Banker 0 has accepted a request and is now not available 
+Banker 0 transferred $50 from Customer 2 to the reciever:  3
+Banker 0 is ready to complete a request 
+Banker 0 has accepted a request and is now not available 
+Banker 0 Customer 3 is a broke ahh and got request denied  ($200)
+Banker 0 is ready to complete a request 
+Banker 0 has accepted a request and is now not available 
+banker:  0 finished customers request  3 ($100)
+Banker 0 is ready to complete a request 
+Banker 0 has accepted a request and is now not available 
+Banker 0 transferred $300 from Customer 4 to the reciever:  0
+Banker 0 is ready to complete a request 
+All CPUs suspended.  Exiting.

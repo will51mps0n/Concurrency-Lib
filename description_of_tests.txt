@@ -1,0 +1,17 @@
+Test 1 - Thread yield from Lecture - tests basic yielding and thred switching for 2 threads
+Test 2 - Yield from lab - tests basic yielding and thred switching for 3 threads
+
+Test 3 - brawl stars - handles locking and unlocking, as well as simple ordering for 3 threads. Doesnt use cv or waits, but yields instead
+Test 4 - from the spec (expected output provided) - handles more complicated locking, unlocking, and ordering for 2 threads. Also uses yield and no cv's
+
+Test 5 - Ping Pong Lab - tests basic functionality and cv, using one cv and 2 threads, as well as signal. Ping Pong from lab
+Test 6 - Call Center Lab - is more complicated functionality and multiple cvs - tests wait and signal, but not broadcast. 
+Test 7 - Piano Lab - Signals more deterministic, only for the piano keys written in the string, tests wait and signal as well
+
+test
+
+ERROR TESTS 
+testerror1 - Misuse of thread functions
+testerror2 - Resource exhaustion.
+testerror345 - Undefined behavior
+

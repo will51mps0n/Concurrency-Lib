@@ -1,0 +1,72 @@
+here22
+here222
+1 in loop
+1 in wait
+2 in loop
+2 in wait
+3 in loop
+3 in wait
+4 in loop
+4 in wait
+5 in loop
+5 in wait
+6 in loop
+6 in wait
+7 in loop
+7 in wait
+conductor in loop
+conductor signaling
+conductor in loop
+conductor in wait
+1
+do
+1 in loop
+1 in wait
+conductor signaling
+conductor in loop
+conductor in wait
+2
+re
+2 in loop
+2 in wait
+conductor signaling
+conductor in loop
+conductor in wait
+3
+mi
+3 in loop
+3 in wait
+conductor signaling
+conductor in loop
+conductor in wait
+4
+fa
+4 in loop
+4 in wait
+conductor signaling
+conductor in loop
+conductor in wait
+5
+so
+5 in loop
+5 in wait
+conductor signaling
+conductor in loop
+conductor in wait
+6
+la
+6 in loop
+6 in wait
+conductor signaling
+conductor in loop
+conductor in wait
+7
+ti
+7 in loop
+7 in wait
+conductor signaling
+1
+do
+1 in loop
+1 in wait
+All CPUs suspended.  Exiting.

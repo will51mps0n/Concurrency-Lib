@@ -1,0 +1,14 @@
+Yielding thread 1 so thread 2 can take over execution
+thread 2is attempting to grab mutex 1. If lock not confirmed, thread is waiting. 
+mutex 1 has been locked by thread 2
+thread 2is yielding so other threads can take over 
+thread 3is attempting to grab mutex 1. If lock not confirmed, thread is waiting. 
+Thread 1 now attempting to join thread 3, which should be waiting on lock
+thread 2unlocking mutex 1 
+thread 2Is done 
+mutex 1 has been locked by thread 3
+thread 3is yielding so other threads can take over 
+thread 3unlocking mutex 1 
+thread 3Is done 
+Thread 1 has now moved on after join, so 3 should be done. Test done
+All CPUs suspended.  Exiting.

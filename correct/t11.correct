@@ -1,0 +1,30 @@
+Starting the join test
+Here means we created three threads
+Calling join on t1 before creating the 4th thread
+Thread 1 starting... epic
+Thread 2 starting... epic
+Thread 3 starting... epic
+Thread 3 incremented counter to 1
+Thread 3 incremented counter to 2
+Thread 3 incremented counter to 3
+Thread 3 finishing
+Thread 2 incremented counter to 4
+Thread 2 incremented counter to 5
+Thread 2 incremented counter to 6
+Thread 2 finishing
+Thread 1 incremented counter to 7
+Thread 1 incremented counter to 8
+Thread 1 incremented counter to 9
+Thread 1 finishing
+Thread 1 done
+SPAWNED thread 4
+Waiting for thread 4 to finish...
+Thread 4 starting... epic
+Thread 4 incremented counter to 10
+Thread 4 incremented counter to 11
+Thread 4 incremented counter to 12
+Thread 4 finishing
+Thread 4 finished
+Ensure counter is 12, as each thread should incrememnt 3 times 12
+Join test completed successfully!
+All CPUs suspended.  Exiting.
